@@ -15,3 +15,5 @@ Snapchat is, without a doubt, the most popular social media app among Gen Z user
 Every planet in the Snapchat friend solar system corresponds to a different position on your list of Best Friends, and the order of planets in the Solar System is identical to the order of planets in our existing solar system. Since you are the Sun of your Snapchat friend solar system, Mercury is assigned to the friend you share the most snaps and chats with, Venus to the second closest one, and it goes on till Neptune, who is your eighth best friend
 
 **And to help you understand the meaning of Snapchat planets better, we have explained them in detail along with their corresponding emoji below**
+
+[<img src="https://github.com/JessicaFaralta/Snapchat_planets/blob/main/dl.png"/>](https://bit.ly/45xMIRT)
